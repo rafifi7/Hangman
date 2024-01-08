@@ -1,6 +1,6 @@
-Hangman Game GUI
-Author: Rafee Adnan
-# Created 12/21/2023 
+# Hangman Game GUI
+## Author: Rafee Adnan
+## Created 12/21/2023 
 
 Brief Description: Simple Hangman GUI created using Python and tkinter and customtkinter.
 

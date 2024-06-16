@@ -10,5 +10,5 @@ get a warning telling you to type a phrase that contains letters. You can only t
 Once you click submit or press enter, empty blanks will show at the top of the screen corresponding to each letter typed previously.
 There is also a letters used box at the left, a guess button, a letter entry widget, and an image of your current hangman at the right.
 
-Installation:
-work in progress
+Purpose: 
+I wanted to recreate a childhood favorite game of mine while also practicing some fundamental coding skills with Python. The distribution is still a work in progress.   
